@@ -1,1 +1,0 @@
-import{n as e}from"./_virtual_wxt-plugins-DBMiDRPA.js";import"./_virtual_wxt-html-plugins-Nq6k84k5.js";async function t(){try{await e.runtime.sendMessage({type:`SYNC`})}catch(e){console.error(`[Offscreen Ticker] ❌ Ошибка:`,e)}finally{setTimeout(t,5e3)}}t();
